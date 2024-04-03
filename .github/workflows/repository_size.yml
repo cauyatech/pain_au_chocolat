@@ -1,0 +1,20 @@
+name: Show Repo Informations
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  display_size:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.1.1
+
+      - name: Display Branch
+        run: echo "Branch name:${{ github.ref }}"
+
+      - name: Repo Size
+        run: du -skh --exclude=".git"
