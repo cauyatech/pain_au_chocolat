@@ -13,4 +13,4 @@ issue
 ca
 pi
 pla
-que paso que pasa
+que paso que
