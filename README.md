@@ -12,8 +12,3 @@ caca
 issue
 ca
 pi
-pla
-que paso que passssaaaa
-tineroire,k
-fvrrv
-egvefsd
