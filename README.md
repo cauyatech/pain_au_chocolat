@@ -12,3 +12,5 @@ caca
 issue
 ca
 pi
+ervq
+fzd
